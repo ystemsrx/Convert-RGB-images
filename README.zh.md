@@ -45,6 +45,3 @@ for file in png_files:
 
 print("所有PNG图像已转换为灰度图像。")
 ```
-
-## exe下载
-https://drive.google.com/file/d/1B2AaL8otDfm8FUk6FjBaDfy7wUnbFTZh/view?usp=sharing
