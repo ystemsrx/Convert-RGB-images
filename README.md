@@ -45,6 +45,3 @@ for file in png_files:
 
 print("All PNG images have been converted to grayscale.")
 ```
-
-## EXE Download
-https://drive.google.com/file/d/1B2AaL8otDfm8FUk6FjBaDfy7wUnbFTZh/view?usp=sharing
